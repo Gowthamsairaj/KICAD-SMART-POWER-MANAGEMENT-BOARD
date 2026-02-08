@@ -88,7 +88,7 @@ DC Input → Protection → Buck (5V) → LDO (3.3V) → Load
 ---
 
 ## 👤 Author
-[Your Name]
+GOWTHAMA SAI RAJ R T
 
 Electronics & Communication Engineering  
 Interested in Embedded Systems & Hardware Design
